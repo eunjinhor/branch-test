@@ -2,5 +2,6 @@
 second edition
 third edition
 issue resolved
-Hotfix team's solutionNew function added
+Hotfix team's solution
+New function added
 Team updated
